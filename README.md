@@ -1,92 +1,52 @@
-<h1 align="center">Hi there, I'm Surabhi 👋</h1>
+<h1 align="center">Hey, I'm Surabhi 👋</h1>
 
 <p align="center">
-  <em>Electronics & Communication Engineer · Full-Stack Developer · IIIT Bangalore</em>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=surabhi84ard&label=Profile%20views&color=1a3a5c&style=flat" alt="profile views" />
+  <em>I like building things that actually get used.</em>
 </p>
 
 ---
 
-### 👩‍💻 About Me
+I'm an Electronics & Communication Engineering student with a growing interest in both hardware and software. My background is in EC — embedded systems, wireless communications, signal processing — but I've been steadily expanding into full-stack development, and I enjoy the challenge of making something work end-to-end, from a circuit to a deployed web app.
 
-- 🎓 Electronics & Communication Engineering student
-- 🏗️ Built and deployed a full-stack **Hostel Management System** used in production at IIIT Bangalore
-- 📡 Interested in **Embedded Systems** and **Wireless Communications**
-- 💻 Enjoy building practical tools that solve real institutional problems
-- 🌱 Currently exploring the intersection of backend systems and hardware
+I like practical projects. Not just code that runs locally, but things that solve a real problem for real people. The hostel portal I built is live and used daily by students and staff at IIIT Bangalore — that kind of impact matters to me.
 
 ---
 
-### 🛠️ Tech Stack
+### 🗂️ What I've Built
 
-#### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**[FWC Course Work](https://github.com/surabhi84ard)**
+Everything from my IIIT Bangalore FWC (Future Wireless Communications) course — experiments and implementations across **Arduino**, **Raspberry Pi Pico**, and **Vaman** boards. Covers embedded programming, hardware interfacing, and wireless communication concepts hands-on.
 
-#### Frameworks & Libraries
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![OpenPyXL](https://img.shields.io/badge/OpenPyXL-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+**[PG Website](https://github.com/surabhi84ard)**
+A clean, responsive website built with **HTML and CSS**. My first step into web development — focused on layout, design, and getting comfortable with the frontend.
 
-#### Databases & Tools
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+**[FWC Website](https://github.com/surabhi84ard)**
+A more interactive website for FWC content, built with **HTML, CSS, and JavaScript**. Added dynamic behaviour and interactivity on top of the static foundation from the PG site.
 
-#### EC & Hardware
-![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Wireless Comms](https://img.shields.io/badge/Wireless_Communications-0078D4?style=for-the-badge&logo=ieee&logoColor=white)
+**[Hostel Portal](https://github.com/surabhi84ard/Hostel-Management-system)**
+The most complete project so far. A full-stack hostel management system built with **Python (Flask)**, **SQLite**, and **HTML/CSS/JS** — deployed and actively used at IIIT Bangalore. Handles room allocations, student records, activity history, reports, key tracking, and user management across multiple hostel blocks. Everything from database design to OTP-based authentication to Excel exports.
 
 ---
 
-### 🚀 Featured Project
+### 🛠️ Skills & Tools
 
-#### 🏠 [Hostel Management System](https://github.com/surabhi84ard/Hostel-Management-system)
-> A full-stack web application built with **Flask + SQLite**, deployed in production at IIIT Bangalore ([vasati.iiitb.ac.in](https://vasati.iiitb.ac.in))
-
-**What it does:**
-- 🛏️ Room allocation & vacation management across multiple hostel blocks
-- 👨‍🎓 Student database with bulk import, photo upload, and roll number management
-- 📊 Reports with Excel export — occupancy and vacated student history
-- 🔑 Keys-with-me tracking for security personnel
-- 🔒 Role-based access (Manager / Security), OTP-based password reset, persistent login
-- 📜 Full activity audit trail with transaction timestamps
-- 🔄 Overlap stay detection, CAPTCHA-protected search, two-factor bulk delete
-
-**Tech:** `Python` `Flask` `SQLite` `Jinja2` `pandas` `openpyxl` `smtplib` `vanilla JS`
+`Python` `C` `Flask` `SQLite` `HTML` `CSS` `JavaScript`
+`Arduino` `Raspberry Pi Pico` `Vaman`
+`Embedded Systems` `Wireless Communications`
+`pandas` `openpyxl` `Git`
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=surabhi84ard&show_icons=true&theme=default&title_color=1a3a5c&icon_color=1a3a5c&hide_border=true" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surabhi84ard&layout=compact&title_color=1a3a5c&hide_border=true" alt="Top languages" />
-</p>
-
----
-
-### 📫 Get in Touch
-
-<p align="center">
-  <a href="https://github.com/surabhi84ard">
-    <img src="https://img.shields.io/badge/GitHub-surabhi84ard-181717?style=for-the-badge&logo=github" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=surabhi84ard&show_icons=true&hide_border=true&title_color=1a3a5c&icon_color=f59e0b" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surabhi84ard&layout=compact&hide_border=true&title_color=1a3a5c" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=surabhi84ard&theme=minimal&hide_border=true&color=1a3a5c&line=1a3a5c&point=f59e0b" alt="contribution graph"/>
+  <a href="https://github.com/surabhi84ard">github.com/surabhi84ard</a>
 </p>
-
-<p align="center"><em>"Building things that work in the real world."</em></p>
