@@ -37,16 +37,6 @@ The most complete project so far. A full-stack hostel management system built wi
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=surabhi84ard&show_icons=true&hide_border=true&title_color=1a3a5c&icon_color=f59e0b" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surabhi84ard&layout=compact&hide_border=true&title_color=1a3a5c" />
-</p>
-
----
-
 <p align="center">
   <a href="https://github.com/surabhi84ard">github.com/surabhi84ard</a>
 </p>
