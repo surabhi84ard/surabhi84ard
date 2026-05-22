@@ -4,11 +4,10 @@
 
 **EC student · Hardware tinkerer · Full-stack builder**
 
-*I like building things that actually get used.*
+*From circuits to full-stack — still learning, always shipping.*
 
 <br>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=surabhi84ard&color=1a3a5c&style=flat-square&label=Profile+Views)](https://github.com/surabhi84ard)
 
 </div>
 
@@ -59,7 +58,7 @@ A more interactive site for FWC content — added dynamic behaviour and JavaScri
 </td>
 <td width="50%" valign="top">
 
-### 🏠 [Hostel Portal](https://github.com/surabhi84ard/Hostel-Management-system) &nbsp;`🟢 Live`
+### 🏠 [Hostel Portal](https://github.com/surabhi84ard/Hostel-Management-system) &nbsp;
 The most complete project so far — a full-stack hostel management system deployed and actively used at IIIT Bangalore. Room allocations, student records, activity history, reports, key tracking, OTP authentication, Excel exports, and multi-block user management.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -97,35 +96,5 @@ The most complete project so far — a full-stack hostel management system deplo
 ![Raspberry Pi](https://img.shields.io/badge/RPi_Pico-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![Embedded](https://img.shields.io/badge/Embedded_Systems-555555?style=for-the-badge&logo=hackster&logoColor=white)
 ![Wireless](https://img.shields.io/badge/Wireless_Comms-0078D4?style=for-the-badge&logo=ieee&logoColor=white)
-
-</div>
-
-<br>
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=surabhi84ard&show_icons=true&hide_border=true&title_color=1a3a5c&icon_color=f59e0b&text_color=333&bg_color=ffffff" height="160"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surabhi84ard&layout=compact&hide_border=true&title_color=1a3a5c&text_color=333&bg_color=ffffff" height="160"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=surabhi84ard&theme=minimal&hide_border=true&color=1a3a5c&line=1a3a5c&point=f59e0b&area=true" width="90%"/>
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-*"From circuits to full-stack — still learning, always shipping."*
-
-[![GitHub](https://img.shields.io/badge/github.com/surabhi84ard-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/surabhi84ard)
 
 </div>
